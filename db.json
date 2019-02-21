@@ -1,3 +1,7 @@
 {
-	"name": "Fake McNomad"
+  "users": [
+    {
+      "name": "Fake McNomad"
+    }
+  ]
 }
